@@ -1,5 +1,6 @@
-## Hi there 👋
-I am a Full Stack Developer ⚡ Looking for new opportunity
+# Hi there 👋
+
+### I am a Full Stack Developer ⚡ Looking for new opportunity
 
 ---
 <div align="center">
@@ -13,7 +14,7 @@ I am a Full Stack Developer ⚡ Looking for new opportunity
   </a>
 </div>
 
-### ✨=> [My Portfolio Website](https://portfolio-website-three-navy.vercel.app/) 
+## ✨=> [My Portfolio Website](https://portfolio-website-three-navy.vercel.app/) 
 
 ---
 
@@ -35,6 +36,8 @@ I am a Full Stack Developer ⚡ Looking for new opportunity
 ---
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GivPenjinun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GivPenjinun&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
