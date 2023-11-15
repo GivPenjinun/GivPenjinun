@@ -5,15 +5,19 @@
 </div>
 
 <div id="badges">
-  <span>-📫 My Linkkedin =>  </span><a href="https://www.linkedin.com/in/penjinun-wattanaparueda/" target="_blank">
+  <span>-📫 My Linkkedin =>  </span>
+  <a href="https://www.linkedin.com/in/penjinun-wattanaparueda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=GivPenjinun&style=flat-square&color=blue" alt="counter"/>
-
 </div>
 
 -✨ My Portfolio => https://portfolio-website-three-navy.vercel.app/
 
+
+
+<div>
+    <img src="https://komarev.com/ghpvc/?username=GivPenjinun&style=flat-square&color=blue" alt="counter"/>
+</div>
 <!--
 **GivPenjinun/GivPenjinun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
